@@ -1,0 +1,38 @@
+.div1{
+    border:2px solid lightgray;
+    padding: 5px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    position:relative;
+    top:200px;
+    bottom: 200px;
+}
+.div2{
+    display: flex;
+    align-items: center;
+    gap:10px;
+}
+.div3{
+    display: inline;
+}
+.video{
+    border-radius: 4px;
+}
+.para1{
+    font-weight:bold;
+    font-size: 14px;
+    font-family: calibri;
+}
+.para2{
+    font-size:14px;
+    font-family: calibri;
+}
+.button1{
+font-size: 12px;
+color:white;
+background-color: blue;
+padding:6px;
+border-radius: 4px;
+}
